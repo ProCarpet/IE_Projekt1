@@ -1,0 +1,10 @@
+# knime workflow settings and artifacts
+*/.artifacts
+*/.knimeLock
+*/.metadata
+*/.savedWithData
+*/Example\ Workflows
+
+# IDE settings
+.idea
+.vscode
