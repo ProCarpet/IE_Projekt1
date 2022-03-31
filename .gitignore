@@ -1,9 +1,9 @@
 # knime workflow settings and artifacts
-*/.artifacts
-*/.knimeLock
-*/.metadata
+/*/.artifacts/
+/*/.knimeLock
+/*/.metadata/
 */.savedWithData
-*/Example\ Workflows
+/*/Example Workflows/
 
 # IDE settings
 .idea
